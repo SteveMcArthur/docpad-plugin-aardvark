@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-aardvark",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "DocPad plugin used for testing purposes. In particular used for testing plugin clashes where the load order of plugins is an issue",
   "homepage": "https://github.com/SteveMcArthur/docpad-plugin-aardvark",
   "keywords": [
