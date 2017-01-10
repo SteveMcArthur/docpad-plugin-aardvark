@@ -1,0 +1,17 @@
+**/*.log
+**/.docpad.db
+credentials.json
+
+# Build Files
+build/
+components/
+bower_components/
+node_modules/
+out/
+
+*.bat
+.env
+**/.env
+
+
+
